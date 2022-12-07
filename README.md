@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-To Do List
+Clone da Página de login do Facebook, sendo otimizada tambem para dispositivos mobile
 
 ## :memo: Licença
 
